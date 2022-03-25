@@ -9,6 +9,7 @@
     <Version>1.0.0</Version>
     <Description>Test Package</Description>
     <PackageIcon>icon.png</PackageIcon>
+    <RepositoryUrl>https://github.com/oknncelik/RabbitMQ.Bus</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
